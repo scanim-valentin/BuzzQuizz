@@ -13,6 +13,5 @@ Check the required packages at the beginning of the file.
 To use it, upload it to the Arduino Uno via Arduino IDE.
 
 # Game modes
-![Alt text](./game_prototype.svg)
-<img src="./game_prototype.svg">
+<img src="./game_prototype.svg" alt="could show the diagram">
 
